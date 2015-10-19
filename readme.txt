@@ -38,6 +38,11 @@ Have fun!
 
 
 History:
+v1.5
+  - added new keywords and function names introduced in WeiDU 239
+  - added fixed versions of misspelled EigthNearestEnemyOfType and 
+    EigthNearestMyGroupOfType object specifiers
+
 v1.4
   - added several undocumented TP2 keywords
 
