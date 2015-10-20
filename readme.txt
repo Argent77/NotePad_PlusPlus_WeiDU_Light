@@ -42,15 +42,13 @@ v1.5
   - added new keywords and function names introduced in WeiDU 239
   - added fixed versions of misspelled EigthNearestEnemyOfType and 
     EigthNearestMyGroupOfType object specifiers
-
+  - moved CREATE from patch to action category
 v1.4
   - added several undocumented TP2 keywords
-
 v1.3
   - removed variable delimiters (%)
   - added new keywords introduced in WeiDU 237
   - added new script actions, triggers and objects introduced in IWD:EE
-
 v1.2
   - added tokens, triggers, actions and keywords introduced in BG:EE and BG2:EE
 v1.1
