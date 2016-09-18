@@ -2,7 +2,7 @@ WeiDU Syntax Highlighters 'Light' for Notepad++
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Author: Argent77
-Version: 1.5
+Version: 1.6
 
 The main purpose of the light version is to reduce the processor load, and hence 
 the time needed for Notepad++ to apply the color schemes to the script files. 
