@@ -43,6 +43,7 @@ Have fun!
 History:
 v1.6
   - added several new object specifiers
+  - added new script actions and triggers introduced in game engine v2.0
   - added new keywords introduced in WeiDU 240
 v1.5
   - added new keywords and function names introduced in WeiDU 239
