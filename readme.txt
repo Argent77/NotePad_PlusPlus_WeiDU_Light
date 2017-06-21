@@ -44,6 +44,8 @@ History:
 v1.7
   - added double quote string delimiter support to WeiDU_Light_TRA
   - added colored text delimiter to WeiDU_TRA
+  - added new keywords introduced in WeiDU 241
+  - added convenience trigger command TriggerOverride
 v1.6
   - added several new object specifiers
   - added new script actions and triggers introduced in game engine v2.0
