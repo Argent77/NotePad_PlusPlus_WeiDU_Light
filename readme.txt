@@ -41,6 +41,9 @@ Have fun!
 
 
 History:
+v1.8
+  - added new keywords introduced by WeiDU 243
+  - added new script triggers added by EE patch 2.5
 v1.7
   - added double quote string delimiter support to WeiDU_Light_TRA
   - added colored text delimiter to WeiDU_TRA
