@@ -2,7 +2,7 @@ WeiDU Syntax Highlighters 'Light' for Notepad++
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Author: Argent77
-Version: 1.8
+Version: 1.9
 
 The main purpose of the light version is to reduce the processor load, and hence 
 the time needed for Notepad++ to apply the color schemes to the script files. 
@@ -41,6 +41,9 @@ Have fun!
 
 
 History:
+v1.9
+  - added new TP2 keywords introduced by WeiDU 245
+  - added more script triggers and actions added by EE patch 2.5
 v1.8
   - added new keywords introduced by WeiDU 243
   - added new script triggers added by EE patch 2.5
