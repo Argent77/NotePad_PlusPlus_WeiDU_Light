@@ -1,3 +1,5 @@
+!!! NOTE: THIS PROJECT HAS BEEN DISCONTINUED !!!
+
 WeiDU Syntax Highlighters 'Light' for Notepad++
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
